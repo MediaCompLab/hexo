@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Shu Hu
+title: MC Lab
 subtitle: ''
 description: ''
 keywords:
-author: Shu Hu
+author: MC Lab
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: MediaCompLab.github.io
+url: https://MediaCompLab.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -109,5 +109,5 @@ deploy:
 # article search
 search:
   path: search.xml
-  field: post
+  field: source
   content: true

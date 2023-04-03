@@ -1,6 +1,6 @@
 ---
 layout: site
-title: Writings
+title: People
 date: 2023-02-09 22:57:01
 ---
 
@@ -26,6 +26,10 @@ date: 2023-02-09 22:57:01
     position: relative;
     overflow: hidden;
     padding-bottom: 110px
+}
+
+.ourTeam .i .c:hover {
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1) !important;
 }
 
 .ourTeam .i .c .wrap {
@@ -173,7 +177,7 @@ date: 2023-02-09 22:57:01
 <div class="section ourTeam">
 	<div style="display:flex; flex-wrap:wrap; justify-content: center;">
 		<div class="i" style="width:28rem">
-			<div class="c text-center shadow">
+			<div class="c text-center shadow-sm">
 				<div class="wrap">
 					<!-- <img src="/images/joe.jpg" alt="#" width="270" height="270" class="img-responsive"> -->
 					<img src="/images/joe.jpg" alt="#" class="img-responsive" style="margin:0;">
@@ -194,7 +198,7 @@ date: 2023-02-09 22:57:01
 			</div>
 		</div>
         <div class="i" style="width:28rem">
-			<div class="c text-center shadow">
+			<div class="c text-center shadow-sm">
 				<div class="wrap">
 					<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="#" class="img-responsive" style="margin:0;">
 					<div class="info">
@@ -214,7 +218,7 @@ date: 2023-02-09 22:57:01
 			</div>
 		</div>
         <div class="i" style="width:28rem">
-			<div class="c text-center shadow">
+			<div class="c text-center shadow-sm">
 				<div class="wrap">
 					<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="#" class="img-responsive" style="margin:0;">
 					<div class="info">
@@ -234,9 +238,9 @@ date: 2023-02-09 22:57:01
 			</div>
 		</div>
         <div class="i" style="width:28rem">
-			<div class="c text-center shadow">
+			<div class="c text-center shadow-sm">
 				<div class="wrap">
-					<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="#" class="img-responsive" style="margin:0;">
+					<img src="https://angushushu.com/images/head.png" alt="#" class="img-responsive" style="margin:0;">
 					<div class="info">
 						<h3 class="name">Shu Hu</h3>
 						<h4 class="position">Ph.D. student</h4>

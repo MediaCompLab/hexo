@@ -177,7 +177,8 @@ date: 2023-02-09 22:57:01
 <div class="section ourTeam">
 	<div style="display:flex; flex-wrap:wrap; justify-content: center;">
 		<div class="i" style="width:28rem">
-			<div class="c text-center shadow-sm">
+			<!-- <div class="c text-center shadow-sm"> -->
+			<div class="c text-center">
 				<div class="wrap">
 					<!-- <img src="/images/joe.jpg" alt="#" width="270" height="270" class="img-responsive"> -->
 					<img src="/images/joe.jpg" alt="#" class="img-responsive" style="margin:0;">
@@ -187,7 +188,7 @@ date: 2023-02-09 22:57:01
 					</div>
 				</div>
 				<div class="more">
-					<p>I'm working on ____</p>
+					<p style="font-size:1.5rem">Right now I’m most excited about learning about what is different about how processes, and understand narratives we read in texts, look at in comics, and watch on TV and at the movies.</p>
 					<div class="socials">
 						<a href="#" title="#" class="facebook"><i class="fa fa-facebook"></i></a>
 						<a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a>
@@ -198,7 +199,7 @@ date: 2023-02-09 22:57:01
 			</div>
 		</div>
         <div class="i" style="width:28rem">
-			<div class="c text-center shadow-sm">
+			<div class="c text-center">
 				<div class="wrap">
 					<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="#" class="img-responsive" style="margin:0;">
 					<div class="info">
@@ -218,12 +219,12 @@ date: 2023-02-09 22:57:01
 			</div>
 		</div>
         <div class="i" style="width:28rem">
-			<div class="c text-center shadow-sm">
+			<div class="c text-center">
 				<div class="wrap">
 					<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="#" class="img-responsive" style="margin:0;">
 					<div class="info">
 						<h3 class="name">Gal Kaldes</h3>
-						<h4 class="position">Ph.D. student</h4>
+						<h4 class="position">postdoctoral Fellow</h4>
 					</div>
 				</div>
 				<div class="more">
@@ -238,12 +239,32 @@ date: 2023-02-09 22:57:01
 			</div>
 		</div>
         <div class="i" style="width:28rem">
-			<div class="c text-center shadow-sm">
+			<div class="c text-center">
 				<div class="wrap">
 					<img src="https://angushushu.com/images/head.png" alt="#" class="img-responsive" style="margin:0;">
 					<div class="info">
 						<h3 class="name">Shu Hu</h3>
 						<h4 class="position">Ph.D. student</h4>
+					</div>
+				</div>
+				<div class="more">
+					<p>I’m interested in the structure of knowledge and how the process based on it demonstrates the narrative experience.</p>
+					<div class="socials">
+						<a href="#" title="#" class="facebook"><i class="fa fa-facebook"></i></a>
+						<a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a>
+						<a href="#" title="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+						<a href="#" title="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="i" style="width:28rem">
+			<div class="c text-center">
+				<div class="wrap">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" alt="#" class="img-responsive" style="margin:0;">
+					<div class="info">
+						<h3 class="name">Haeli Patel</h3>
+						<h4 class="position">Master Student</h4>
 					</div>
 				</div>
 				<div class="more">

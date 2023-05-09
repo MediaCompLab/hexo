@@ -50,10 +50,10 @@ Feller, D. P., Newberry, K. Kurby, C. A., Schwan, S., & Magliano, J. P. (2023). 
 <div style="font-size:1.5rem; max-width:80rem; margin:auto; line-height:1.5">
 Example publications:
 
-Magliano, J. P., Higgs, K., Santuzzi, A., Tonks, S. M., O’Reilly, T., Sabatini, J., Feller, D. P., Kopatich, R. J. Ray, M., & Parker, C. (2020). Testing the inference mediation hypothesis in a post-secondary context. <i>Contemporary Educational Psychology</i>, 61. DOI: https://doi.org/10.1016/j.cedpsych.2020.101863.<br><br>
-Magliano, J. P., Talwar, A., Feller, D. P., Wang, Z., O’Reilly, T., & Sabatini, J. (2023). Exploring thresholds in the foundational skills for reading and comprehension outcomes in the context of postsecondary readers. <i>Journal of Learning Disorders</i>, 56, 43-57. DOI: 10.1177/00222194221087<br><br>
-Talwar, A., Magliano, J. P., Higgs, K., Santuzzi, A., Tonks, S. O’Reilly, T., Sabatini, J. (2022). Early academic success in college: Examining the contributions of reading literacy skills, metacognitive reading Strategies, and reading motivation. <i>Journal of College Reading and Learning</i>, DOI: 10.1080/10790195.2022.2137069.<br><br>
-Tonks, S. M., Magliano, J. P., Ray, M., & Schwartz, J. (2021). How situational competence beliefs and task value Relate to inference Strategies and comprehension during reading.<i>Learning and Individual Difference</i>, 90. DOI: 10.1016/j.lindif.2021.102036<br><br>
+Magliano, J. P., Higgs, K., Santuzzi, A., Tonks, S. M., O’Reilly, T., Sabatini, J., Feller, D. P., Kopatich, R. J. Ray, M., & Parker, C. (2020). Testing the inference mediation hypothesis in a post-secondary context. <i>Contemporary Educational Psychology</i>, 61. DOI: https://doi.org/10.1016/j.cedpsych.2020.101863.<br>
+Magliano, J. P., Talwar, A., Feller, D. P., Wang, Z., O’Reilly, T., & Sabatini, J. (2023). Exploring thresholds in the foundational skills for reading and comprehension outcomes in the context of postsecondary readers. <i>Journal of Learning Disorders</i>, 56, 43-57. DOI: 10.1177/00222194221087<br>
+Talwar, A., Magliano, J. P., Higgs, K., Santuzzi, A., Tonks, S. O’Reilly, T., Sabatini, J. (2022). Early academic success in college: Examining the contributions of reading literacy skills, metacognitive reading Strategies, and reading motivation. <i>Journal of College Reading and Learning</i>, DOI: 10.1080/10790195.2022.2137069.<br>
+Tonks, S. M., Magliano, J. P., Ray, M., & Schwartz, J. (2021). How situational competence beliefs and task value Relate to inference Strategies and comprehension during reading.<i>Learning and Individual Difference</i>, 90. DOI: 10.1016/j.lindif.2021.102036<br>
 </div>
 
 </details>

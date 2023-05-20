@@ -4,6 +4,7 @@ title: Research
 date: 2023-02-09 22:57:01
 ---
 
+# **Research Projects**
 <details style="margin: auto;">
     <summary style="font-size:2rem"><b>Comprehension of media</b></summary>
 
@@ -72,3 +73,7 @@ Magliano, J. P., Millis, K.K., The RSAT Development Team1, Levinstein, I., & Boo
 </div>
 
 </details>
+
+---
+
+# Fundings

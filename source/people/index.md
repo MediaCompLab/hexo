@@ -129,6 +129,14 @@ date: 2023-02-09 22:57:01
     background: #2d57a5
 }
 
+.ourTeam .i .c .more .socials a.researchgate {
+    background: #34ebcf
+}
+
+.ourTeam .i .c .more .socials a.researchgate:hover {
+    background: #30d9bf
+}
+
 .ourTeam .i .c .more .socials a.twitter {
     background: #3dd7e5
 }
@@ -173,7 +181,8 @@ date: 2023-02-09 22:57:01
 }
 </style>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <div class="section ourTeam">
 	<div style="display:flex; flex-wrap:wrap; justify-content: center;">
 		<div class="i" style="width:28rem">
@@ -188,12 +197,13 @@ date: 2023-02-09 22:57:01
 					</div>
 				</div>
 				<div class="more">
-					<p style="font-size:1.5rem">Right now I’m most excited about learning about what is different about how processes, and understand narratives we read in texts, look at in comics, and watch on TV and at the movies.</p>
+					<p style="font-size:1.5rem">I’m most excited about our research on what is different about how we process and understand narratives that we  read in texts, look at in comics, and watch on TV and at the movies.</p>
 					<div class="socials">
-						<a href="#" title="#" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a>
-						<a href="#" title="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-						<a href="#" title="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+						<a href="#" title="#" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+						<!-- <a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a> -->
+						<!-- <a href="#" title="#" class="google-plus"><i class="fa fa-google-plus"></i></a> -->
+						<!-- <a href="#" title="#" class="linkedin"><i class="fa fa-linkedin"></i></a> -->
+                        <a href="https://www.researchgate.net/profile/Joe-Magliano" title="#" class="researchgate"><i class="fa-brands fa-researchgate"></i></a>
 					</div>
 				</div>
 			</div>
@@ -210,10 +220,10 @@ date: 2023-02-09 22:57:01
 				<div class="more">
 					<p>I'm working on ____</p>
 					<div class="socials">
-						<a href="#" title="#" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a>
-						<a href="#" title="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-						<a href="#" title="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+						<a href="#" title="#" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+						<a href="#" title="#" class="twitter"><i class="fa-brands fa-twitter"></i></a>
+						<a href="#" title="#" class="google-plus"><i class="fa-brands fa-google-plus-g"></i></a>
+						<a href="#" title="#" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
 					</div>
 				</div>
 			</div>
@@ -230,10 +240,10 @@ date: 2023-02-09 22:57:01
 				<div class="more">
 					<p>I'm working on ____</p>
 					<div class="socials">
-						<a href="#" title="#" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a>
-						<a href="#" title="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-						<a href="#" title="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+						<a href="#" title="#" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+						<a href="#" title="#" class="twitter"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="https://www.researchgate.net/profile/Gal-Kaldes" title="#" class="researchgate"><i class="fa-brands fa-researchgate"></i></a>
+						<a href="#" title="#" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
 					</div>
 				</div>
 			</div>
@@ -243,17 +253,14 @@ date: 2023-02-09 22:57:01
 				<div class="wrap">
 					<img src="https://angushushu.com/images/head.png" alt="#" class="img-responsive" style="margin:0;">
 					<div class="info">
-						<h3 class="name">Shu Hu</h3>
+						<a href="https://angushushu.com"><h3 class="name">Shu Hu</h3></a>
 						<h4 class="position">Ph.D. student</h4>
 					</div>
 				</div>
 				<div class="more">
-					<p>I’m interested in the structure of knowledge and how the process based on it demonstrates the narrative experience.</p>
+					<p>I’m interested in understand how we experience narratives and how this is supported by the structure of our knowledge.</p>
 					<div class="socials">
-						<a href="#" title="#" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a>
-						<a href="#" title="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-						<a href="#" title="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.researchgate.net/profile/Shu-Hu-10" title="#" class="researchgate"><i class="fa-brands fa-researchgate"></i></a>
 					</div>
 				</div>
 			</div>
@@ -270,10 +277,10 @@ date: 2023-02-09 22:57:01
 				<div class="more">
 					<p>I'm working on ____</p>
 					<div class="socials">
-						<a href="#" title="#" class="facebook"><i class="fa fa-facebook"></i></a>
-						<a href="#" title="#" class="twitter"><i class="fa fa-twitter"></i></a>
-						<a href="#" title="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-						<a href="#" title="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+						<a href="#" title="#" class="facebook"><i class="fa-brands fa-facebook-f"></i></a>
+						<a href="#" title="#" class="twitter"><i class="fa-brands fa-twitter"></i></a>
+						<a href="#" title="#" class="google-plus"><i class="fa-brands fa-google-plus-g"></i></a>
+						<a href="#" title="#" class="linkedin"><i class="fa-brands fa-linkedin-in"></i></a>
 					</div>
 				</div>
 			</div>

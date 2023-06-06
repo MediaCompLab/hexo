@@ -17,9 +17,9 @@ date: 2023-02-09 22:57:01
 
 .ourTeam .i .c {
     background: var(--bg-block-md-table-2);;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
@@ -29,7 +29,7 @@ date: 2023-02-09 22:57:01
 }
 
 .ourTeam .i .c:hover {
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.1) !important;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.05) !important;
 }
 
 .ourTeam .i .c .wrap {

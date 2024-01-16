@@ -33,9 +33,7 @@ date:
 
 <!-- # Media Comprehension Laboratory -->
 
-#### The Media Comprehension Lab is directed by [Joe Magliano](https://education.gsu.edu/profile/joe-magliano/)
- 
-#### The Media Comprehension Lab studies three areas of research:
+#### The Media Comprehension Lab is directed by [Joe Magliano](https://education.gsu.edu/profile/joe-magliano/), which studies three areas of research:
 
 <span class="badge bg-dark text-light" style="font-size:1.5rem;border-radius:0px;">First</span> we experience information across a variety of media, such as texts, comics, and TV/Movies. We study how adults make sense of different media and what is common and unique about those experiences. 
 

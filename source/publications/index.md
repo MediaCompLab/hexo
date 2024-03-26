@@ -1,6 +1,6 @@
 ---
 layout: site
-title: Writings
+title: Publications
 date: 2023-02-09 22:57:01
 ---
 
